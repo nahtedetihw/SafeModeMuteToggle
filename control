@@ -1,0 +1,9 @@
+Package: com.nahtedetihw.safemodemutetoggle
+Name: SafeModeMuteToggle
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Toggle mute switch to invoke Safe Mode!
+Maintainer: Ethan Whited
+Author: Ethan Whited
+Section: Tweaks
+Depends: mobilesubstrate
